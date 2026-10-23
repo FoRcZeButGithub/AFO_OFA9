@@ -1,0 +1,4 @@
+{
+  "/api/ai-planner/route": "app/api/ai-planner/route.js",
+  "/page": "app/page.js"
+}
